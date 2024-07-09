@@ -1,12 +1,14 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/D1pZhJxu)
-# Title (Please modify the title)
+# 초 엘리트 집단
 
-## Team
+## Eleit LIST
 
-| ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
-| :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [박패캠](https://github.com/UpstageAILab)             |            [이패캠](https://github.com/UpstageAILab)             |            [최패캠](https://github.com/UpstageAILab)             |            [김패캠](https://github.com/UpstageAILab)             |            [오패캠](https://github.com/UpstageAILab)             |
-|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
+
+
+| <img src="https://github.com/UpstageAILab3/upstage-ml-regression-ml12/assets/60285169/696a725d-f2da-44e3-9145-ad14764c373d" width="300" height="300">| <img src="https://github.com/UpstageAILab3/upstage-ml-regression-ml12/assets/60285169/e82c70ed-7aaf-43cc-ad03-5e429820e20c" width="300" height="300"> | <img src="https://github.com/UpstageAILab3/upstage-ml-regression-ml12/assets/60285169/65a02ae5-ab11-4295-8f69-f5ddb482718f" width="300" height="300">| <img src="https://github.com/UpstageAILab3/upstage-ml-regression-ml12/assets/60285169/196b8d22-49b0-4432-bf75-c18cc0942159" img="300" height="300">|
+| :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
+|            [이선호](https://github.com/UpstageAILab)             |            [정동임](https://github.com/UpstageAILab)             |            [허동재](https://github.com/UpstageAILab)             |            [김시연](https://github.com/UpstageAILab)             |
+|                            마스코트                             |                      채찍                             |                            리더보드 중독자                           |                            당근                           |  
 
 ## 1. Competiton Info
 
