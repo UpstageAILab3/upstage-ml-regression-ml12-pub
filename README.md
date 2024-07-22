@@ -119,7 +119,8 @@ K-fold가 더 높은 점수를 제공하지만, 신뢰성이 떨어져 시계열
 ![스크린샷 2024-07-22 오후 1 55 25](https://github.com/user-attachments/assets/2695689c-8a2c-4d01-885a-e24e77f2db17)
 ![스크린샷 2024-07-22 오후 1 55 54](https://github.com/user-attachments/assets/d470a01f-b084-4eeb-9002-46fc5605b645)
 ![스크린샷 2024-07-22 오후 3 38 05](https://github.com/user-attachments/assets/07ac405b-ac94-4246-af1c-f8ee00ae1b63)
-![스크린샷 2024-07-22 오후 3 38 30](https://github.com/user-attachments/assets/c31fc669-b4f9-4c1b-8d8b-d2b56c8680a6)
+![스크린샷 2024-07-22 오후 3 44 06](https://github.com/user-attachments/assets/c58a59a1-71d9-4402-a22c-5d25fdcfcc47)
+
 
 
 ### Presentation
