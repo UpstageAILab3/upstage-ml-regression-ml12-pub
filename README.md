@@ -107,7 +107,10 @@ K-fold가 더 높은 점수를 제공하지만, 신뢰성이 떨어져 시계열
 
 ### Leader Board
 
-- _Insert Leader Board Capture_
+![image](https://github.com/user-attachments/assets/b4e77cd3-983c-40af-b4c4-316b22679c02)
+![스크린샷 2024-07-22 오후 1 55 25](https://github.com/user-attachments/assets/2695689c-8a2c-4d01-885a-e24e77f2db17)
+![스크린샷 2024-07-22 오후 1 55 54](https://github.com/user-attachments/assets/d470a01f-b084-4eeb-9002-46fc5605b645)
+
 - _Write rank and score_
 
 ### Presentation
