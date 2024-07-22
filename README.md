@@ -90,7 +90,7 @@ Z-score 및 IQR 방법을 사용하여 이상치를 탐지, IQR 방법이 더 �
 
 ### Model descrition
 
-- LightGBM 모델을 선택. 대용량 데이터셋과 다수의 범주형 피처를 효율적으로 처리할 수 있으며, 강력한 예측 성능을 제공하는 Gradient Boosting 프레임워크를 기반으로 한다.
+LightGBM 모델을 선택. 대용량 데이터셋과 다수의 범주형 피처를 효율적으로 처리할 수 있으며, 강력한 예측 성능을 제공하는 Gradient Boosting 프레임워크를 기반으로 한다.
 
 ### Modeling Process
 
